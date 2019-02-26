@@ -1,0 +1,11 @@
+C:\Users\Pat\Desktop\Own_Project\Core2.0_WebApi_Test\UserApi\UserApi\bin\Debug\netcoreapp2.0\UserApi.deps.json
+C:\Users\Pat\Desktop\Own_Project\Core2.0_WebApi_Test\UserApi\UserApi\bin\Debug\netcoreapp2.0\UserApi.runtimeconfig.json
+C:\Users\Pat\Desktop\Own_Project\Core2.0_WebApi_Test\UserApi\UserApi\bin\Debug\netcoreapp2.0\UserApi.runtimeconfig.dev.json
+C:\Users\Pat\Desktop\Own_Project\Core2.0_WebApi_Test\UserApi\UserApi\bin\Debug\netcoreapp2.0\UserApi.dll
+C:\Users\Pat\Desktop\Own_Project\Core2.0_WebApi_Test\UserApi\UserApi\obj\Debug\netcoreapp2.0\UserApi.csprojResolveAssemblyReference.cache
+C:\Users\Pat\Desktop\Own_Project\Core2.0_WebApi_Test\UserApi\UserApi\obj\Debug\netcoreapp2.0\UserApi.csproj.CoreCompileInputs.cache
+C:\Users\Pat\Desktop\Own_Project\Core2.0_WebApi_Test\UserApi\UserApi\obj\Debug\netcoreapp2.0\UserApi.AssemblyInfoInputs.cache
+C:\Users\Pat\Desktop\Own_Project\Core2.0_WebApi_Test\UserApi\UserApi\obj\Debug\netcoreapp2.0\UserApi.AssemblyInfo.cs
+C:\Users\Pat\Desktop\Own_Project\Core2.0_WebApi_Test\UserApi\UserApi\bin\Debug\netcoreapp2.0\UserApi.pdb
+C:\Users\Pat\Desktop\Own_Project\Core2.0_WebApi_Test\UserApi\UserApi\obj\Debug\netcoreapp2.0\UserApi.dll
+C:\Users\Pat\Desktop\Own_Project\Core2.0_WebApi_Test\UserApi\UserApi\obj\Debug\netcoreapp2.0\UserApi.pdb
